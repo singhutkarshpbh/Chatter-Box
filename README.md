@@ -1,3 +1,3 @@
 ﻿# Chatter-Box
-My first official chat app (web) 
+This project is done for now 
 # Chatter-Box
